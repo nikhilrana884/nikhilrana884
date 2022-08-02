@@ -72,9 +72,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://linkedin.com/in/nikhilrana884/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/nik._.rana/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
